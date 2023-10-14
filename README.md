@@ -1,6 +1,6 @@
-# Hadlow Design System
-The Hadlow Design System is a series of components, stylings and patterns inspired by the [GOV.UK Design System](https://design-system.service.gov.uk) and [JS Luna Design System](https://luna.sainsburys.co.uk).
+# TSC Docsy
+TSC Docsy is a Jekyll theme that allows teams to quickly create documentation pages for their services and products.
 
-## Learn more about this repo
-Find more on the [Digital Docs website](https://docs.digital.sec.tonbridgespiritualist.com/repo/design-system)
-Visit the [Design System website](https://design-system.service.tonbridgespiritualist.com) to learn more about stylings.
+Docsy's files are hosted centrally and managed by the Docsy team, meaning teams can focus on their creative journeys rather than continually updating assets hosted externally.
+## Attribution
+Based on [Docsy Jekyll by vsoch](https://github.com/vsoch/docsy-jekyll)
