@@ -1,0 +1,13 @@
+- title: Documentation
+  url: docs
+  links:
+    - title: "Getting started"
+      url: "getting-started"
+   
+- title: Other Pages
+  url: "docs/extras"
+  links:
+    - title: "About"
+      url: "about"
+    - title: "News"
+      url: "news"
