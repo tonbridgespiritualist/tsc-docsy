@@ -2,7 +2,7 @@
   url: docs
   links:
     - title: "Getting started"
-      url: "getting-started"
+      url: "docs/getting-started"
    
 - title: Other Pages
   url: "docs/extras"
